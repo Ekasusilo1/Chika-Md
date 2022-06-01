@@ -34,7 +34,7 @@ global.footer = 'Eka Putraa' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = 'https://youtube.com/channel/UCBoxYNPnqygQfVbFgugmjVA'
-global.ig = 'https://instagram.com/ekaputraaputra'
+global.ig = 'https://www.instagram.com/ekaputraaputra/?hl=id'
 global.mygc = 'https://chat.whatsapp.com/C1lkOoXxfzNJPdacaetfbn'
 global.myweb = '-'
 global.email = 'ekaputrasusilo12@gmail.com'
