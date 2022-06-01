@@ -438,7 +438,7 @@ exports.leave = () => {
 //—————「 Donasi 」—————//
 exports.donasi  = (ownernomer) => {
 	return`
-—————「 *DONATE* 」—————
+—————「 *DONASI* 」—————
 
 Hai kak ☺️ 
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
@@ -446,24 +446,16 @@ Berapapun donasi kalian akan sangat berarti 👍
 
 Thanks!
 
-—————「 *SEWA | RUN BOT* 」—————
+———「 *SEWA | DONASI* 」———
 
   *_SEWA BOT_* 
-  *≻* Sewa Bot 5k (1 minggu)
-  *≻* Sewa Bot 10k (1 bulan)
+  *≻* Sewa Bot 0k (1 minggu)
+  *≻* Sewa Bot 5k (1 bulan)
   *≻* Sewa Bot 35k (Permanen)
 
-  *JADI BOT* 
-  *≻* Jadi Bot 15k Tidak Owner (1 minggu)
-  *≻* Jadi Bot + Owner 25k (1 bulan)
-  *≻* Jadi Bot + Owner 35k (Permanen)
-
-  *JASA RUN BOT*
-  *≻* Run Bot 15k (1 minggu)
-  *≻* Run Bot 20k (1 bulan)
-  *≻* Run Bot 25k (Permanen)
-
-  *Minat? Langsung chat aja ya cuy 🐦*
+  *DONASI PULSA*
+  *≻* +62-878-1000-7292
+  *≻* +62 878-1936-4117
 
   *Contact person Owner* :
   wa.me/${ownernomer}
